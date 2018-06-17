@@ -1,6 +1,13 @@
 ### a LanDen Labs - JavaTree
 Java Developer Tool
 
+## &#x1F534;
+```diff
+- Project has moved back to LanDenLabs GitHub, follow link for latest updates.
+``` 
+&#x1F534; https://github.com/landenlabs
+
+## ====== Following is no longer updated ======
 
 WebSite
 [http://landenlabs.com](http://landenlabs.com)
